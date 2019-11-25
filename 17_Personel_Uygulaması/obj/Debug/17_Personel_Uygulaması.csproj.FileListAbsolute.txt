@@ -1,0 +1,15 @@
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\17_Personel_Uygulaması.exe.config
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\17_Personel_Uygulaması.exe
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\17_Personel_Uygulaması.pdb
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\_17_Personel_Uygulaması.AnaForm.resources
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\_17_Personel_Uygulaması.Form1.resources
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\_17_Personel_Uygulaması.Properties.Resources.resources
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.csproj.GenerateResource.Cache
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.exe
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.pdb
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\FakeData.dll
+C:\Users\Ovgu.durak\Documents\Visual Studio 2015\Projects\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\FakeData.pdb
+C:\Users\Ovgu.durak\Desktop\Ado.NetEgitim_2019\17_Personel_Uygulaması\bin\Debug\17_Personel_Uygulaması.exe.config
+C:\Users\Ovgu.durak\Desktop\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.exe
+C:\Users\Ovgu.durak\Desktop\Ado.NetEgitim_2019\17_Personel_Uygulaması\obj\Debug\17_Personel_Uygulaması.pdb
